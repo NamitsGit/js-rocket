@@ -23,3 +23,4 @@ const item={
     "Srushti": "dsfsfsf",
 }
 console.log(item)
+console.log(item["Namit"])
